@@ -1,0 +1,23 @@
+.container {
+    background-color: #585450;
+    height: 40px;
+    width: 90%;
+    border-top: 6px solid #9d191f;
+    border-radius: 0 0 10px 10px;
+    display: flex;
+    margin:0 5%;
+    }
+.inner {
+    color: whitesmoke;
+    display: inline-flex;
+    margin: 0 2%;
+    align-items: center;
+    }
+.footer {
+    margin-left: 5%;
+    margin-top: 1%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    font-weight: bold;
+    opacity: 60%;
+}
