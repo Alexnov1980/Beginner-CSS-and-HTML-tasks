@@ -1,0 +1,23 @@
+body {
+    background-image: url(https://img-fotki.yandex.ru/get/9150/136164467.13/0_11ce34_3711058f_orig.png);
+    background-size: cover;
+    font-size: 24px;
+    }
+#container {
+    width: 500px;
+    height: 190px;
+    margin: auto;
+    }
+#header {
+    font-size: 130%;
+    font-weight: bold;
+    margin-bottom: -15px;
+}
+#footer {
+    color: blue;
+    font-size: 60%;
+    text-decoration: underline;
+    font-style: italic;
+    text-align: center;
+    margin-top: -15px;
+}

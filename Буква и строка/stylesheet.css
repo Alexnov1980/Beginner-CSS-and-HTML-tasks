@@ -1,0 +1,28 @@
+body {
+		background-image: url(https://img-fotki.yandex.ru/get/67890/136164467.17/0_12bc81_21263ac1_orig.png);
+		background-size: cover;
+		font-size: 28px;
+		font-family: Verdana,georgia, palatino, serif;;
+		display: flex;
+	    justify-content: center;
+	    align-items: center;
+	    position: absolute;
+		width: 100%;
+    	height: 100%;
+		}
+#container {
+		width: auto;
+		height: auto;
+		}
+#first_string {
+	color: blue;
+	line-height: 1.3;
+}
+#first_string::first-letter {
+		font-size: 200%;
+		color: red;
+}
+#link {
+	text-decoration: underline;
+	color: blue;
+}

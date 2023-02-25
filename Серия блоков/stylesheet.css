@@ -1,0 +1,40 @@
+body {
+    height: 100vh;
+    width: 100vw;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+#main {
+    background-color: aqua;
+    width: 80vw;
+    height: 35vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 5%;
+    }
+.block1, .block2, .block3, .block4, .block5  {
+    background-color: aliceblue
+    }
+.block1 {
+    height: 30vh;
+    width: 3vw;
+    }
+.block2 {
+    height: 30vh;
+    width: 6vw;
+    }
+.block3 {
+    height: 30vh;
+    width: 10vw;
+    } 
+.block4 {
+    height: 30vh;
+    width: 15vw;
+    } 
+.block5 {
+    height: 30vh;
+    width: 30vw;
+    }       

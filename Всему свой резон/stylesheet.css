@@ -1,0 +1,32 @@
+body {
+	font-size: 24px;
+	background-color: #eff1f3;
+	background-size: cover;
+	font-family: Verdana,georgia, palatino, serif;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+#container {
+	width: auto;
+	height: auto;
+}
+#headliner1 {
+	color:#008000;
+	font-size: 200%;
+	font-weight: bold;
+}
+#headliner2 {
+	color: #556b2f;
+	font-size: 150%;
+	font-weight: bold;
+}   
+#p {
+	font-size: 70%;
+	line-height: 3;
+	text-align: center;
+	display: block;
+}

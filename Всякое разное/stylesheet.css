@@ -1,0 +1,29 @@
+.div1 {
+    width: 650px;
+    padding: 20px;
+    margin: 30px;
+    background-color: #f5f5f5;
+    font-size: 24px;
+    text-align: right;
+    height: auto;
+}
+#header {
+    text-transform: uppercase;
+    color:#d66868;
+}
+#par1 {
+    width: 380px;
+    display: inline-block;
+    }
+#par3 {
+    width: 630px;
+    display: inline-block;
+}
+.div2 {
+    font-family: Tahoma;
+    
+}
+#span {
+    opacity: 0.5;
+}
+    

@@ -1,0 +1,23 @@
+body {
+	background-color: #008b8b;
+	color: #d26963;
+	font-size: 20px;
+}
+.par1, .par2, .par3 {
+	background-color: #f5f5dc;
+	border-top: 6px groove #f5f5dc;
+	border-bottom: 6px groove #f5f5dc;
+	width: 450px;
+	height: 80px;
+	margin: 40px;
+	padding: 20px;
+	text-indent: 20px;
+	text-align: justify;
+}
+
+.par1, .par3 {
+	overflow-y: scroll;
+}
+.par2 {
+	overflow-y: hidden;
+}

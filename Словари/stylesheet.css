@@ -1,0 +1,33 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+#white {
+    color: #4576ba;
+    text-align: center;
+    border-top: 1px solid lightgrey;
+    padding: 20px;
+    margin: -1px;
+}
+#blue {
+    background-color:#4576ba;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin: 0px;
+}
+#mainblock {
+    width: 280px;
+    height: 580px;
+    border-left: 10px solid lightgrey;
+    border-right: 10px solid lightgrey;
+    display: flex;
+
+}
+#secondblock {
+    width: 280px;
+    border-bottom: 1px solid lightgrey;
+    margin: auto;
+
+}

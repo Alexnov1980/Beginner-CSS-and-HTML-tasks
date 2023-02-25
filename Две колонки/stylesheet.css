@@ -1,0 +1,49 @@
+body {
+    font-size: 54px;
+    font-weight: bold;
+    background-image:url(https://www.toptal.com/designers/subtlepatterns/uploads/double-bubble-dark.png);
+    display: flex;
+    height: 100vh;
+    width: 100vw; 
+    overflow: hidden; 
+}
+#box {
+    margin: auto;
+    width:800px;
+    height: 800px;
+    background-color: aliceblue;
+}
+#header {
+    width: 800px;
+    height: 150px;
+    justify-content: center;
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/uploads/triangles_pattern.png);
+    align-items: center;
+    display: flex;
+}
+#footer {
+    width: 800px;
+    height: 150px;
+    justify-content: center;
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/uploads/triangles_pattern.png);
+    align-items: center;
+    display: flex;
+}
+#content {
+    float: right;
+    width: 500px;
+    height: 500px;
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/uploads/double-bubble.png);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+#sidebar {
+    float: left;
+    width: 300px;
+    height: 500px;
+    background-color: lightgrey;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}

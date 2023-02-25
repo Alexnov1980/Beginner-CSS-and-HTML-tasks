@@ -1,0 +1,33 @@
+body {
+    background-color: lightgrey;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+.box {
+    font-size: 60px;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    align-items: center;
+    display: flex;
+    }
+
+ .cross {
+    width: 90px;
+    height: 90px;
+    display: inline-grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    margin: 20px;
+   }
+.square1, .square3, .square5,.square7, .square9  {
+    background-color: black;
+    }
+ .footer {
+    position: absolute;
+    font-weight: bold;
+    bottom: 10px;
+    right: 15px;
+    }

@@ -1,0 +1,49 @@
+body {
+    font-size: 22px;
+    font-family: Verdana, georgia;
+    opacity: 0.6;
+    width: 860px;
+    margin: 25px;
+
+} 
+p {
+    line-height: 1.5;
+}
+div {
+    background-color: lightgrey;
+    padding: 8px;
+    font-size: 22px;
+    padding-left: 30px;
+    word-spacing: 8px;
+    
+}
+#div2 {
+    overflow-x: scroll;
+    white-space: nowrap;
+}
+#button {
+    background-color: lightgrey;
+    padding: 3px;
+    font-size: 20px;
+
+}
+#blue {
+    color: blue;
+}
+#green {
+    color: green;
+    
+} 
+#red {
+    color: red;
+    }
+#italic {
+    font-style: italic;
+    opacity: 0.5;
+}
+#bold {
+    font-weight: bold;
+}
+#code {
+    font-size: 22px;
+}

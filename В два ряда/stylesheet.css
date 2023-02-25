@@ -1,0 +1,32 @@
+body {
+    font-size: 26px;
+    color: antiquewhite;
+    height: 100vh;
+    display: flex;
+}
+#outer {
+    width: 1020px;
+    height: 670px;
+    background-color: #444444;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+#box {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+}
+#footer {
+    position: absolute;
+    bottom: 10px;
+    right: 5px;
+    font-size: 42px;
+    color: black;
+    font-weight: bold;
+   }

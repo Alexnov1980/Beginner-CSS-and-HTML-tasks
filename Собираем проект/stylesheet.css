@@ -1,0 +1,43 @@
+body {
+	font-size: 24px;
+	font-family: palatino;
+	width: 850px;
+	margin-left: 50px;
+}
+.style1 {
+	background-color: #f6f5f3;
+	border: 1px solid #efefef;
+	padding: 10px;
+	height: 22px;
+	font-size: 17px;
+	font-family: monospace;
+}
+.style2 {
+	background-color: #f6f5f3;
+	border: 1px solid #efefef;
+	padding: 10px;
+	height: auto;
+	overflow-x: scroll; 
+	white-space: nowrap;
+	letter-spacing: 1px;
+	font-size: 17px;
+	font-family: monospace;
+}
+#button {
+	background-color: #f6f5f3;
+	border: 2px solid #efefef;
+	padding: 10px;
+	font-size: 17px;
+	font-family: monospace;
+}
+#text1 {
+	color: #49a3a3;
+}
+#text2 {
+	font-style: italic;
+	opacity: 0.5;
+
+}
+#text3 {
+	font-weight: bold;
+}

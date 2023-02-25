@@ -1,0 +1,43 @@
+body {
+    background-color: lightgray; 
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+.box {
+    margin-left: 10%;
+    display: flex;
+    align-items: center;
+}
+.blue {
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    background-color: blue;
+    transform: rotate(45deg);
+    margin-right: 80px;
+}
+.green {
+    width: 160px;
+    height: 160px;
+    border-radius: 20px;
+    background-color: green;
+    transform: rotate(45deg);
+    margin-right: 60px;
+}
+.red {
+    width: 120px;
+    height: 120px;
+    border-radius: 20px;
+    background-color: red;
+    transform: rotate(45deg);
+}
+.text {
+    font-size: 22px;
+    font-weight: bold;
+    right: 50px;
+    bottom: 20px;
+    position: absolute;
+}
+
